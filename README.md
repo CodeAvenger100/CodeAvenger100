@@ -3,7 +3,7 @@ Here’s a sample README file for your GitHub profile:
 ```markdown
 # 👋 Hi there, I'm @CodeAvenger100!
 
-I'm an Automation Test Engineer with over 2 years of experience in **Selenium**, **Java**, and **Cucumber** frameworks. I specialize in creating efficient and reliable test automation solutions to ensure high-quality software delivery.
+I'm an Automation Test Engineer with over 2.5+ years of experience in **Selenium**, **Java**, and **Cucumber** frameworks. I specialize in creating efficient and reliable test automation solutions to ensure high-quality software delivery.
 
 - 👀 I’m interested in expanding my knowledge of **API testing**, **CI/CD pipelines**, and exploring advanced test automation frameworks.
 - 🌱 I’m currently learning **design patterns** and deepening my expertise in **BDD (Behavior-Driven Development)** with **Cucumber**.
