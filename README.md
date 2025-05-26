@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @CodeAvenger100!
 
-I'm an Automation Test Engineer with over **2.5 years of experience** in **Selenium**, **Core Java**, **TestNG**, and **Cucumber (BDD)** frameworks. I specialize in building robust and scalable test automation solutions to ensure high-quality software delivery in Agile environments.
+I'm an Automation Test Engineer with over **3 years of experience** in **Selenium**, **Core Java**, **TestNG**, and **Cucumber (BDD)** frameworks. I specialize in building robust and scalable test automation solutions to ensure high-quality software delivery in Agile environments.
 
 - 👀 I’m interested in **API testing**, **CI/CD pipelines**, and integrating automation into the **DevOps** lifecycle.
 - 🌱 I’m currently enhancing my skills in **design patterns**, **hybrid frameworks**, and deep diving into **BDD** with **Cucumber**.
