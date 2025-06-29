@@ -1,14 +1,32 @@
-# 👋 Hi there, I'm @CodeAvenger100!
+# 👋 Hi there, I'm Arpan! Your @CodeAvenger100 :)
 
-I'm an Automation Test Engineer with over **3 years of experience** in **Selenium**, **Core Java**, **TestNG**, and **Cucumber (BDD)** frameworks. I specialize in building robust and scalable test automation solutions to ensure high-quality software delivery in Agile environments.
+I'm a passionate **Automation Test Engineer** with over **3 years of experience** in crafting robust and scalable test automation solutions using **Selenium**, **Core Java**, **TestNG**, and **Cucumber (BDD)**. I’m committed to ensuring high-quality software delivery in fast-paced Agile environments.
 
-- 👀 I’m interested in **API testing**, **CI/CD pipelines**, and integrating automation into the **DevOps** lifecycle.
-- 🌱 I’m currently enhancing my skills in **design patterns**, **hybrid frameworks**, and deep diving into **BDD** with **Cucumber**.
-- 💼 Experienced in testing complex integrations like **GLMS-DWF** for quote proposals, binding, cancellations, and currency rate sync in the **insurance domain**.
-- 💞️ I’m looking to collaborate on projects where I can contribute my QA automation skills and explore emerging testing tools and methodologies.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arpan-bhattacharyyakolkata/) or via email at **arpan.bhattacharyya0508@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving real-world problems through test automation and enjoy finding innovative ways to improve test efficiency!
+## 💻 Tech Stack & Skills
+- **Languages & Tools:** Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, Postman
+- **Frameworks:** Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
+- **Testing Areas:** UI Automation, API Testing, Regression, Sanity, Smoke Testing
+- **CI/CD Exposure:** Jenkins, GitHub Actions (basic level), Automation integration in DevOps pipeline
+
+## 🚀 What I'm Working On
+- Enhancing automation frameworks using **design patterns**
+- Deep diving into **BDD best practices** with **Cucumber**
+- Exploring **REST API testing** and increasing test efficiency
+
+## 🔍 Interests
+- Building and maintaining scalable automation frameworks
+- Learning new test tools and integrating them into CI/CD
+- Sharpening skills in version control, reporting, and test data management
+
+## 🤝 Let’s Connect!
+- 📫 Email: **arpan.bhattacharyya0508@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/arpan-bhattacharyyakolkata/)
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I believe test automation isn’t just about writing scripts — it's about ensuring confidence in every release and making life easier for the whole team!
 
 <!---
 CodeAvenger100/CodeAvenger100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
